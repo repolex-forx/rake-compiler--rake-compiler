@@ -1,0 +1,11 @@
+{
+  "org": "rake-compiler",
+  "repo": "rake-compiler",
+  "versions": [
+    {
+      "commit": "56a1a12c38c1a5519bdcaf363ab34407ea7580cf",
+      "tag": "",
+      "parsed_at": "2026-11-10T07:44:45.921717+00:00"
+    }
+  ]
+}
