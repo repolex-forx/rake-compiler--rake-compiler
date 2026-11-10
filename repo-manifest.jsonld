@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/rake-compiler/rake-compiler/commit/56a1a12c38c1a5519bdcaf363ab34407ea7580cf",
       "git:hexsha": "56a1a12c38c1a5519bdcaf363ab34407ea7580cf",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/rake-compiler/rake-compiler/commit/47469e3fd79afb9a17a65ccbee11cb7d1c36f603",
